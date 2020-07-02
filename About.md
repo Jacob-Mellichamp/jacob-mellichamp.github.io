@@ -2,7 +2,7 @@
 title: About
 layout: landing
 description: Who am I, The person and computer scientest
-image: assets/images/pic07.jpg
+image: assets/images/HeadShot.jpg
 nav-menu: true
 ---
 
