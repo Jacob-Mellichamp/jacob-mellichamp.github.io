@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Elements
+title: Blog
+description: Stay up to date with projects
 nav-menu: true
 ---
 
