@@ -1,12 +1,12 @@
 ---
-layout: page
+layout: allposts
 title: Blog
-description: Stay up to date with projects
+landing-title: 'All posts'
 nav-menu: true
+description: Stay up to date with projects
 image: assets/images/pic09.jpg
+author: null
+show_tile: false
 ---
-{% for page in site.pages %}
-	{% if page.layout == "post" %}
-		<li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
-	{% endif %}
-{% endfor %}
+
+<h1>All posts</h1>

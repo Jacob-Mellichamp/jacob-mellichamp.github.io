@@ -21,8 +21,8 @@ nav-menu: true
 				in electronics morphed into a passion for software
 				engineering and network administration. I love and
 				respect all aspects of computer science no matter
-				the task, which is why “Solving complex and
-				meaningful solutions through software” is my
+				the task, which is why <i>Solving complex and
+				meaningful solutions through software </i> is my
 				purpose as a Computer Scientist.</p>
 	</div>
 </section>
