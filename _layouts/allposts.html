@@ -22,10 +22,19 @@
           {% for post in site.posts %}
 	          {% if post.title != 404 %}
 	              <header class="major">
-	                <a href="{{ post.baseurl }}" <h1>{{ post.title }}</h1> 
-	              </header>
-	              {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %} 
-	              {% if post.date %}<p>{{ post.date }}</p>{% endif %} </a>
+                  <h4> {{ post.title }} </h4>
+                </header>
+                {% if post.image %}
+                 <div class="row">
+                    <div class="2u column"><span class="image fit"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span> </div> 
+                    <div class="4u column"><p>{{ post.description }}  </p> </div>
+                    <div class="2u column"><p>{{ post.date | date: "%-d %B %Y" }}</p></div>
+                    <div class="2u column"><a href="{{ post.url }}" class="button special small">Read Full Post</a></div>
+                 </div>
+
+
+                {% endif %} 
+	              
 	          {% endif %}
           {% endfor %}
 	        </div>

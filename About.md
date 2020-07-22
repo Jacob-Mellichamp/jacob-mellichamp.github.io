@@ -21,9 +21,9 @@ nav-menu: true
 				in electronics morphed into a passion for software
 				engineering and network administration. I love and
 				respect all aspects of computer science no matter
-				the task, which is why <i>Solving complex and
-				meaningful solutions through software </i> is my
-				purpose as a Computer Scientist.</p>
+				the task, which is why <b> solving complex and
+				meaningful solutions through software </b> is my
+				purpose as a Computer Scientist. </p>
 	</div>
 </section>
 
@@ -31,7 +31,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/professional.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -39,9 +39,6 @@ nav-menu: true
 					<h3>My passions</h3>
 				</header>
 				<p>Computer Science is a broad field with many topics. If I had all the time in the world believe me, I would love to learn them all. I am a firm believer that the future of technology will revolve heavily around cloud computing and Artifical Intelligence. As client software becomes more thin, datacenters and Software-as-a-Service products will have to pick up the burden of heavy work loads. These factors have influenced my decision to pursue the paths of Concurrent Programming, Network Programming, and Artifical Intelligence.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
