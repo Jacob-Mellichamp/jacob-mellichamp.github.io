@@ -7,10 +7,12 @@ nav-menu: true
 ---
 <section>
 	<p>
-			In my senior year of pursing a Bachlors Degree in Computer Science, I've become more comfortable producing software for various friends and family members. I've realized that people simply have great ideas, and with the help of a programmer, could make their idea's reality. 
-	</p>
+			In my pursuit of a Bachlors Degree in Computer Science, I've realized that people simply have great ideas, and with my experience as a programmer, could make their idea's reality.
 
-	<p> </p>
+	</p>
+	<p>
+			It wasn't long after I would be 
+	</p>
  
 </section>
 
