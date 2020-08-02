@@ -16,7 +16,7 @@ nav-menu: true
 			<h2>Who am I?</h2>
 		</header>
 		<p>		
-				I am Jacob Mellichamp, Founder of ProjectStar.
+				I am Jacob Mellichamp, founder of ProjectStar.
 				Growing up in the Information-Age I was fascinated
 				by electronics: phones, video games, and computers
 				- and wanted to make sense of it all. This curiosity
@@ -49,24 +49,36 @@ nav-menu: true
 	</section>
 </section>
 
-<section id="two">
+<section id="one">
+<div class ="inner">
+	<header class="major">
+		<h2>Previous Experience</h2>
+	</header>
+	<div class="box">
+		<div class="inner row center">
+			<div class="4u 12u$(medium)">
+			<div class=""><span class="image"><img  src=" {% link assets/images/BoozAllenHamilton.jpeg %}" alt="Booz Allen Hamilton"> </span></div>
+			<b> Booz Allen Hamilton </b>
+			<p>System Analyst In the Charleston Office. </p>
+			</div>
 
-<div class="box">
-	<div class="row uniform">
-		<div class="column">
-		<div class="6u"><span class="image fit"><img  src=" {% link assets/images/BoozAllenHamilton.jpeg %}" alt="Booz Allen Hamilton"> </span></div>
-		</div>
+			<div class="4u 12u$(medium)">
+				<div class=""><span class="image"><img src=" {% link assets/images/MPW_waterworks.jpeg %}" alt="Booz Allen Hamilton"></span></div>
+				<b> Mount Pleasant Waterworks </b>
+				<p> Network Administrator </p>
+			</div>
 
-		<div class="column">
-			<div class="6u"><span class="image fit"><img src=" {% link assets/images/MPW_waterworks.jpeg %}" alt="Booz Allen Hamilton"></span></div>
-		</div>
-
-		<div class="column">
-			<div class="6u"><span class="image fit"><img src=" {% link assets/images/blackbaud.png %}" alt="Booz Allen Hamilton"></span></div>
+			<div class="4u 12u$(medium)">
+				<div class=""><span class="image"><img src=" {% link assets/images/blackbaud.png %}" alt="Booz Allen Hamilton"></span></div>
+				<b> Blackbaud </b>
+				<p> Desktop Analyst </p>
+			</div>
 		</div>
 	</div>
 </div>
 </section>
+
+
 <section id="one">
 		<div class="inner">
 		<header class="major">
@@ -76,7 +88,7 @@ nav-menu: true
 			In my pursuit of a Bachlors Degree in Computer Science, I've realized that people simply have great ideas, and with my experience as a programmer, I could make their idea's reality.
 		</p>
 		<p>
-			It wasn't long after I would be 
+			ProjectStar is a platform for allowing people to pursue their personal idea's through software while simutaniously making complex ideas simple through an online blog. 
 		</p>
 	</div>
 </section>

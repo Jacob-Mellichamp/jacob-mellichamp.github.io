@@ -6,14 +6,28 @@ image: assets/images/consulting.jpg
 nav-menu: true
 ---
 <section>
-	<p>
-			In my pursuit of a Bachlors Degree in Computer Science, I've realized that people simply have great ideas, and with my experience as a programmer, could make their idea's reality.
+	<h1> Services </h1>
+	<div class="box">
+		<div class="inner row center">
+			<div class="4u 12u$(medium)">
+			<div id="consulting_icons"><span class="image"><img  src=" {% link assets/images/cog.png %}" alt="Automation"> </span></div>
+			<h2>Automation</h2>
+			<p>System Analyst In the Charleston Office. </p>
+			</div>
 
-	</p>
-	<p>
-			It wasn't long after I would be 
-	</p>
- 
+			<div class="4u 12u$(medium)">
+				<div id="consulting_icons"><span class="image"><img src=" {% link assets/images/cloud_service.png %}" alt="Cloud Services"></span></div>
+				<h2>Cloud Services</h2>
+				<p>Launch your local application onto the cloud! Make your application accessable between friends, colleagues, and family.</p>
+			</div>
+
+			<div class="4u 12u$(medium)">
+				<div id="consulting_icons"><span class="image"><img src=" {% link assets/images/webdesign.png %}" alt="Web Design"></span></div>
+				<h2>WebDesign</h2>
+				<p> Desktop Analyst </p>
+			</div>
+		</div>
+	</div>
 </section>
 
 <body>
