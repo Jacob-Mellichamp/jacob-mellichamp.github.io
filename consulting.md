@@ -1,35 +1,56 @@
 ---
-layout: post
+layout: landing
 title: Consulting
-description: make your next idea a reality
+description: Make your next idea a reality
 image: assets/images/consulting.jpg
 nav-menu: true
 ---
-<section>
-	<h1> Services </h1>
-	<div class="box">
+<section id="one consulting">
+	<div class="inner">
+		<header class="major">
+			<h1>Services</h1>
+		</header>
 		<div class="inner row center">
-			<div class="4u 12u$(medium)">
-			<div id="consulting_icons"><span class="image"><img  src=" {% link assets/images/cog.png %}" alt="Automation"> </span></div>
-			<h2>Automation</h2>
-			<p>Have a daily, weekly, or monthly task that you perform? Increase your performance by automating that task! </p>
+			<div class="4u 12u$(medium) card">
+				<div class="consulting-image">
+					<img  src=" {% link assets/images/cog.png %}" alt="Automation">
+				</div>
+				<div class="consulting-content">
+					<h2>Automation</h2>
+					<p>Have a daily, weekly, or monthly task that you perform? Increase your performance by automating that task! </p>
+				</div>
 			</div>
-
-			<div class="4u 12u$(medium)">
-				<div id="consulting_icons"><span class="image"><img src=" {% link assets/images/cloud_service.png %}" alt="Cloud Services"></span></div>
-				<h2>Cloud Services</h2>
-				<p>Launch your local application onto the cloud! Make your application accessable between friends, colleagues, and family.</p>
+			<div class="4u 12u$(medium) card">
+				<div class="consulting-image">
+					<img src=" {% link assets/images/cloud_service.png %}" alt="Cloud Services">
+				</div>
+				<div class="consulting-content">
+					<h2>Cloud Services</h2>
+					<p>Launch your local application onto the cloud! Make your application accessable between friends, colleagues, and family.</p>
+				</div>
 			</div>
-
-			<div class="4u 12u$(medium)">
-				<div id="consulting_icons"><span class="image"><img src=" {% link assets/images/webdesign.png %}" alt="Web Design"></span></div>
-				<h2>Web Design</h2>
-				<p>Have an idea that you want to promote? With Google's Materialize API or jekyll, a static site can be developed.</p>
+			<div class="4u 12u$(medium) card">
+				<div class="consulting-image">
+					<img src=" {% link assets/images/webdesign.png %}" alt="Web Design">
+				</div>
+				<div class="consulting-content">
+					<h2>Web Design</h2>
+					<p>Have an idea that you want to promote? With Google's Materialize API or jekyll, allow me to make you a static website.</p>
+				</div>
 			</div>
 		</div>
 	</div>
 </section>
 
+<section id="two spotlights">
+	<header class="major">
+		<h2>How it Works</h2>
+	</header>
+	<div class="content">
+		<p>Once you have an idea of what you would want created, fill out the form below. I will reply in 2 - 3 business days with follow up questions and a proposal.</p>
+	</div>
+	
+</section>
 <body>
 <section id="contact">
 	<div class="inner">

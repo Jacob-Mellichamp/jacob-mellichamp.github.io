@@ -6,7 +6,60 @@
 }
 
 /* consulting */
-#consulting_icons {
-    height: 20em;
-    padding: 2em;
+
+.card{
+    height: 30em;
 }
+
+.consulting-image{
+    height: 20em !important;
+    display: flex !important;
+    align-items: center !important;
+}
+
+.consulting-content{
+    height: 10em;
+}
+#consulting .card {
+    height: 40em !important;
+}
+
+.consulting-image img {
+    padding-left: 2em !important;
+    padding-right: 2em !important;
+  
+    margin-left: auto !important;
+    margin-right: auto !important;
+  
+    max-width: 100%  !important;
+    max-height: 100% !important;
+  
+    width: auto !important;
+  }
+
+/*
+#consulting .consulting-image {
+    height: 20em !important;
+    display: flex !important;
+    align-items: center !important;
+  }
+  
+  #consulting .consulting-image img {
+    padding-left: 2em !important;
+    padding-right: 2em !important;
+  
+    margin-left: auto !important;
+    margin-right: auto !important;
+  
+    max-width: 100%  !important;
+    max-height: 100% !important;
+  
+    width: auto !important;
+  }
+  
+  @media only screen and (min-width: 992px) {
+    #sponsor .consulting-content {
+      height: 20em;
+    }
+  }
+  */

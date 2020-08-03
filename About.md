@@ -34,14 +34,16 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/professional.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/professional.jpg %}" alt="picture" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>My passions</h3>
 				</header>
-				<p>Computer Science is a broad field with many topics. If I had all the time in the world believe me, I would love to learn them all. I am a firm believer that the future of technology will revolve heavily around cloud computing and Artifical Intelligence. As client software becomes more thin, datacenters and Software-as-a-Service products will have to pick up the burden of heavy work loads. These factors have influenced my decision to pursue the paths of Concurrent Programming, Network Programming, and Artifical Intelligence.</p>
+				<p>
+					Computer Science is a broad field with many topics. If I had all the time in the world believe me, I would love to learn them all. I am a firm believer that the future of technology will revolve heavily around cloud computing and Artifical Intelligence. As client software becomes more thin, datacenters and Software-as-a-Service products will have to pick up the burden of heavy work loads. These factors have influenced my decision to pursue the paths of Concurrent Programming, Network Programming, and Artifical Intelligence.
+				</p>
 			</div>
 		</div>
 
