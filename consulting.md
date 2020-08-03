@@ -12,7 +12,7 @@ nav-menu: true
 			<div class="4u 12u$(medium)">
 			<div id="consulting_icons"><span class="image"><img  src=" {% link assets/images/cog.png %}" alt="Automation"> </span></div>
 			<h2>Automation</h2>
-			<p>System Analyst In the Charleston Office. </p>
+			<p>Have a daily, weekly, or monthly task that you perform? Increase your performance by automating that task! </p>
 			</div>
 
 			<div class="4u 12u$(medium)">
@@ -23,8 +23,8 @@ nav-menu: true
 
 			<div class="4u 12u$(medium)">
 				<div id="consulting_icons"><span class="image"><img src=" {% link assets/images/webdesign.png %}" alt="Web Design"></span></div>
-				<h2>WebDesign</h2>
-				<p> Desktop Analyst </p>
+				<h2>Web Design</h2>
+				<p>Have an idea that you want to promote? With Google's Materialize API or jekyll, a static site can be developed.</p>
 			</div>
 		</div>
 	</div>

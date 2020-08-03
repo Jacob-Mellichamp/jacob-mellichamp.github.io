@@ -1,7 +1,7 @@
 ---
 title: About
 layout: landing
-description: Who I am, the person and the computer scientest
+description: Who I am, the person and the computer scientist
 image: assets/images/HeadShot.jpg
 nav-menu: true
 ---
