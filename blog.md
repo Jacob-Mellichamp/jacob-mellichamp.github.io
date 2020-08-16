@@ -31,9 +31,5 @@ author: null
 	        </div>
       </section>
     </div>
-    {% include footer.html %}
-  </body>
-</html>
-
 
 
