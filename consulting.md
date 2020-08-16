@@ -1,10 +1,11 @@
 ---
-layout: landing
 title: Consulting
+layout: landing
 description: Make your next idea a reality
 image: assets/images/consulting.jpg
 nav-menu: true
 ---
+<body>
 <section id="one consulting">
 	<div class="inner">
 		<header class="major">
@@ -42,16 +43,24 @@ nav-menu: true
 	</div>
 </section>
 
-<section id="two spotlights">
-	<header class="major">
-		<h2>How it Works</h2>
-	</header>
-	<div class="content">
-		<p>Once you have an idea of what you would want created, fill out the form below. I will reply in 2 - 3 business days with follow up questions and a proposal.</p>
+<section id="two" class="spotlights">
+	<div class="inner">
+		<header class="major">
+			<h2>Proposal</h2>
+		</header>
+		<div class="content">
+			<p>If you require service for a project that can be categorized above, fill out the form below. Please supply:</p>
+			<ul>
+				<li>A high-level description of your project </li>
+				<li>The purpose for your project </li>
+				<li>(<i> Optional </i>) Technical specifications of how your project should run. This could include run-time, disk-space, memory-space, or language development. </li>
+			</ul>
+			<p> I will reply back in 2-3 business days with follow up questions and a quote for development. </p>
+		</div>
 	</div>
-	
 </section>
-<body>
+
+
 <section id="contact">
 	<div class="inner">
 		<section>
@@ -74,7 +83,7 @@ nav-menu: true
 				</ul>
 			</form>
 		</section>
-    </div>
+  </div>
 </section>
 
 

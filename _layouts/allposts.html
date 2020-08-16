@@ -15,28 +15,25 @@
     
     <!-- Main -->
     <div id="main" class="alt">
-
       <!-- One -->
       <section id="one">
 	      <div class="inner">
-          {% for post in site.posts %}
-	          {% if post.title != 404 %}
-	              <header class="major">
-                  <h4> {{ post.title }} </h4>
-                </header>
-                {% if post.image %}
-                 <div class="row">
-                    <div class="2u column"><span class="image fit"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span> </div> 
-                    <div class="4u column"><p>{{ post.description }}  </p> </div>
-                    <div class="2u column"><p>{{ post.date | date: "%-d %B %Y" }}</p></div>
-                    <div class="2u column"><a href="{{ post.url }}" class="button special small">Read Full Post</a></div>
-                 </div>
+          <header class="major">
+              <h1>All Post</h1>
+          </header>
 
-
-                {% endif %} 
-	              
-	          {% endif %}
-          {% endfor %}
+          <div class="row">
+            <div class="2u column"> <u><h4>Title </h4></u></div> 
+            <div class="6u column"> <u><h4>Description</h4></u></div>
+            <div class="2u column"> <u><h4>Article Link</h4></u></div>
+            <div class="2u column"> <u><h4>Published</h4></u></div>
+          </div>
+            <div class="row">
+              <div class="2u column"> <b><p>Why GDB is cool</p></b> </div> 
+              <div class="6u column"><p> Although primitive-looking on the surface, GDB is a powerful tool that too few programmers know how to use. The purpose of this article was to serve as an inspiration to learn GDB by demonstrating the capability of this software. </p></div>
+              <div class="2u column"><a href="https://medium.com/@jakemellichamp/why-gdb-is-cool-6981763af302" class="button special small" target="_blank">Read Full Post</a></div>
+              <div class="2u column"><p>August 16th, 2020 </p></div>
+            </div>
 	        </div>
       </section>
 
