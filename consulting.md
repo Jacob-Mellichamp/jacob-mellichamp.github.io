@@ -4,6 +4,7 @@ layout: landing
 description: Make your next idea a reality
 image: assets/images/consulting.jpg
 nav-menu: true
+style: style3
 ---
 <body>
 <section id="one consulting">
@@ -18,7 +19,7 @@ nav-menu: true
 				</div>
 				<div class="consulting-content">
 					<h2>Automation</h2>
-					<p>Have a daily, weekly, or monthly task that you perform? Increase your performance by automating that task! </p>
+					<p>Have a daily, weekly, or monthly task that you perform? Increase your productivity by automating that task! </p>
 				</div>
 			</div>
 			<div class="4u 12u$(medium) card">
@@ -49,7 +50,7 @@ nav-menu: true
 			<h2>Proposal</h2>
 		</header>
 		<div class="content">
-			<p>If you require service for a project that can be categorized above, fill out the form below. Please supply:</p>
+			<p>If you require service for a project, fill out the form below. Please supply:</p>
 			<ul>
 				<li>A high-level description of your project </li>
 				<li>The purpose for your project </li>

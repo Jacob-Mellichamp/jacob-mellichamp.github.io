@@ -4,6 +4,7 @@ layout: landing
 description: Who I am, the person and the computer scientist
 image: assets/images/HeadShot.jpg
 nav-menu: true
+style: style1
 ---
 
 <!-- Main -->
@@ -16,7 +17,7 @@ nav-menu: true
 			<h2>Who am I?</h2>
 		</header>
 		<p>		
-				I am Jacob Mellichamp, founder of ProjectStar.
+				I am Jacob Mellichamp, Founder of ProjectStar.
 				Growing up in the Information-Age I was fascinated
 				by electronics: phones, video games, and computers
 				- and wanted to make sense of it all. This curiosity
@@ -42,12 +43,10 @@ nav-menu: true
 					<h3>My passions</h3>
 				</header>
 				<p>
-					Computer Science is a broad field with many topics. If I had all the time in the world believe me, I would love to learn them all. I am a firm believer that the future of technology will revolve heavily around cloud computing and Artifical Intelligence. As client software becomes more thin, datacenters and Software-as-a-Service products will have to pick up the burden of heavy work loads. These factors have influenced my decision to pursue the paths of Concurrent Programming, Network Programming, and Artifical Intelligence.
+					Computer Science is a broad field with many topics. If I had all the time in the world believe me, I would love to learn them all. I am a firm believer that the future of technology will revolve heavily around cloud computing and artifical intelligence. As client software becomes more thin, datacenters and Software-as-a-Service products will have to pick up the burden of heavy work loads. These factors have influenced my decision to pursue the paths of Concurrent Programming, Network Programming, and Artifical Intelligence.
 				</p>
 			</div>
 		</div>
-
-
 	</section>
 </section>
 
@@ -87,7 +86,7 @@ nav-menu: true
 			<h3> Project Star </h3>
 		</header>
 		<p>
-			In my pursuit of a Bachlors Degree in Computer Science, I've realized that people simply have great ideas, and with my experience as a programmer, I could make their idea's reality.
+			In my pursuit of a Bachlors Degree in Computer Science, I realized people simply have great ideas. With my experience as a programmer, I could make those idea's reality. ProjectStar is tailored to individuals who need a pinch of technical expertise to get their project's off the ground.
 		</p>
 		<p>
 			ProjectStar is a platform for allowing people to pursue their personal idea's through software while simutaniously making complex ideas simple through an online blog. 
