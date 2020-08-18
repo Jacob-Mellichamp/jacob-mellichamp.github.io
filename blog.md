@@ -32,12 +32,10 @@ style: style2
 	        </div>
           <div  id="content-mobile" class="inner">
             <div class="row">
-              <div class="2u column"> <u><h4>Published</h4></u></div>
               <div class="6u column"> <u><h4>Title </h4></u></div> 
-              <div class="4u column"> <u><h4>Article Link</h4></u></div>   
+              <div class="4u column"> <u><h4>Article Link</h4></u></div>
             </div>
             <div class="row">
-              <div class="2u column"><p>8/16/2020 </p></div>
               <div class="6u column"> <b><p>Why GDB is cool</p></b> </div> 
               <div class="4u column"><a href="https://medium.com/@jakemellichamp/why-gdb-is-cool-6981763af302" class="button special small" target="_blank">Read Full Post</a></div>
             </div>
