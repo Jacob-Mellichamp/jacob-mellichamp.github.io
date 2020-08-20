@@ -19,8 +19,8 @@ style: style1
 		<p>		
 				I am Jacob Mellichamp, Founder of ProjectStar.
 				Growing up in the Information-Age I was fascinated
-				by electronics: phones, video games, and computers
-				- and wanted to make sense of it all. This curiosity
+				by electronics: phones, video games, and computers. 
+				I wanted to make sense of it all. This curiosity
 				in electronics morphed into a passion for software
 				engineering and network administration. I love and
 				respect all aspects of computer science no matter
