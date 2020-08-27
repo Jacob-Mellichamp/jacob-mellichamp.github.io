@@ -29,6 +29,13 @@ style: style2
               <div class="2u column"><a href="https://medium.com/@jakemellichamp/why-gdb-is-cool-6981763af302" class="button special small" target="_blank">Read Full Post</a></div>
               <div class="2u column"><p>August 16th, 2020 </p></div>
             </div>
+            <!--Ethics of Cybernetics-->
+            <div class="row">
+              <div class="2u column"> <b><p>The Ethics of Cybernetics</p></b> </div> 
+              <div class="6u column"><p> An in-depth analysis of current cybernetic technological capabilities, followed by a Kantian and Act Utilitarianism ethical analysis on whether or not the technology is moral.</p></div>
+              <div class="2u column"><a href="https://medium.com/@jakemellichamp/the-ethics-of-cybernetics-4a6cef25b24c" class="button special small" target="_blank">Read Full Post</a></div>
+              <div class="2u column"><p>August 26th, 2020 </p></div>
+            </div>
 	        </div>
           <div  id="content-mobile" class="inner">
             <div class="row">
@@ -38,6 +45,11 @@ style: style2
             <div class="row">
               <div class="6u column"> <b><p>Why GDB is cool</p></b> </div> 
               <div class="4u column"><a href="https://medium.com/@jakemellichamp/why-gdb-is-cool-6981763af302" class="button special small" target="_blank">Read Full Post</a></div>
+            </div>
+            <!--Ethics of Cybernetics-->
+            <div class="row">
+              <div class="6u column"> <b><p>The Ethics of Cybernetics</p></b> </div> 
+              <div class="4u column"><a href="https://medium.com/@jakemellichamp/the-ethics-of-cybernetics-4a6cef25b24c" class="button special small" target="_blank">Read Full Post</a></div>
             </div>
 	        </div>
       </section>
