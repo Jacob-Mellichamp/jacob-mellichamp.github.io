@@ -40,7 +40,7 @@ style: style2
             <!-- My Biggest Software Mistake -->
             <div class="row">
               <div class="2u column"> <b><p>My Biggest Software Mistake </p></b> <div> 
-              <div class="6u column"><p> Ahh yes, failure, the one friend whom you didn't invite to the party but found his way there anyway. In a Software Development lecture with Yu-Shan Sun, there was an ongoing joke to “code first, and ask questions later.” It's all fun and games until you actually develop an application with that mindset. </p></div>
+              <div class="6u column"> <p> Ahh yes, failure, the one friend whom you didn't invite to the party but found his way there anyway. In a Software Development lecture with Yu-Shan Sun, there was an ongoing joke to “code first, and ask questions later.” It's all fun and games until you actually develop an application with that mindset. </p></div>
               <div class="2u column"><a href="https://jakemellichamp.medium.com/have-a-plan-my-biggest-software-mistake-1469ba760b67" class="button special small" target="_blank">Read Full Post</a></div>
               <div class="2u column"><p>December 13th, 2020 </p></div>
             </div>
@@ -61,8 +61,8 @@ style: style2
             </div>
                         <!-- My Biggest Software Mistake -->
             <div class="row">
-              <div class="2u column"> <b><p>My Biggest Software Mistake </p></b> <div> 
-              <div class="2u column"><a href="https://jakemellichamp.medium.com/have-a-plan-my-biggest-software-mistake-1469ba760b67" class="button special small" target="_blank">Read Full Post</a></div>
+              <div class="6u column"> <b><p>My Biggest Software Mistake </p></b> <div> 
+              <div class="4u column"><a href="https://jakemellichamp.medium.com/have-a-plan-my-biggest-software-mistake-1469ba760b67" class="button special small" target="_blank">Read Full Post</a></div>
             </div>
 	        </div>
       </section>
