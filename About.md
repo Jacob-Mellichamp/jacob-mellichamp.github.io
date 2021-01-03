@@ -34,9 +34,9 @@ style: style1
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<div class="image"> 
 			<img src="{% link assets/images/professional.jpg %}" alt="picture" data-position="center center" />
-		</a>
+		</div>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
